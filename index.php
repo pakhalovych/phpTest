@@ -1,3 +1,3 @@
 <?php
 
-echo 'I love $ in PHP';
+echo 'I love $ in PHP ';
